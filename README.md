@@ -1,5 +1,5 @@
 # Issue-Tracker-Application
-Issue Tracker Web Application using 
+Issue Tracker Web Application 
 
 ## Users can create & track tasks or features
 * Create a project
