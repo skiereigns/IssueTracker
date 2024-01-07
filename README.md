@@ -20,7 +20,10 @@ All this data will be stored at MongoDB Atlas.
 
 <br>
 <br>
+
 ## To start the project in local system, write two commands in the terminal:
+
 <br>
+
 * npm install
 * npm run dev/ npm start
